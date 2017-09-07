@@ -1,0 +1,2 @@
+code to install c++
+code to install python
